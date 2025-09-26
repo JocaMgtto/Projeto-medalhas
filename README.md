@@ -29,7 +29,5 @@ O script realiza as seguintes etapas:
 3.  **Ordenação**: Classifica os países de acordo com o padrão olímpico oficial (primeiro por medalhas de ouro, depois por prata e, por fim, por bronze como critério de desempate).
 4.  **Exibição**: Imprime no terminal uma tabela formatada com o quadro de medalhas final. Adicionalmente, exibe uma lista de países que ganharam medalhas em apenas um gênero (masculino ou feminino).
 
-### Pré-requisitos
 
-Para que o script funcione, é necessário ter um arquivo chamado `medals.csv` na mesma pasta do `trabalho2.py`. O arquivo deve conter os dados das medalhas em colunas separadas por vírgula.
 
