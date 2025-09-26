@@ -15,17 +15,7 @@ Ao final, o sistema pode gerar um relatório completo com:
 * A receita total acumulada.
 * Gráficos simples em modo texto que mostram a distribuição percentual dos tipos de usuários e das formas de pagamento utilizadas (Pix, Cartão, Dinheiro).
 
-### Como Usar
 
-1.  Certifique-se de ter o Python 3 instalado.
-2.  Navegue até a pasta do projeto pelo terminal.
-3.  Execute o seguinte comando:
-    ```bash
-    python joca2trab.py
-    ```
-4.  O programa apresentará um menu interativo. Siga as instruções para registrar vendas ou exibir o relatório final.
-
----
 
 ## 2. Análise de Medalhas Olímpicas (`trabalho2.py`)
 
@@ -43,11 +33,3 @@ O script realiza as seguintes etapas:
 
 Para que o script funcione, é necessário ter um arquivo chamado `medals.csv` na mesma pasta do `trabalho2.py`. O arquivo deve conter os dados das medalhas em colunas separadas por vírgula.
 
-### Como Usar
-
-1.  Coloque o arquivo `medals.csv` no mesmo diretório do script.
-2.  Execute o seguinte comando no terminal:
-    ```bash
-    python trabalho2.py
-    ```
-3.  O programa irá processar o arquivo e exibir o quadro de medalhas e as outras informações diretamente no terminal.
